@@ -1,0 +1,76 @@
+body {
+  color: black;
+  background-image: url(Images/lamp.jpg);
+  background-color: rgba(50, 50, 50, 1);
+  font-family: monospace;
+  font-size: 15px;
+  line-height: 15px;
+  text-align: center
+}
+p {
+  color: black;
+  text-align: justify;
+}
+
+}
+li {
+  color: black;
+  text-decoration: underline;
+  text-align: center
+}
+
+i {
+  color: black;
+  text-align: center
+}
+
+h1 {
+  color: black;
+  color: rgb(50, 50, 50);
+  text-align: center;
+  text-decoration: underline
+}
+
+h3 {
+  text-align: center;
+}
+
+
+td {
+  color: black;
+  font-family: sans-serif;
+  text-align: center
+}
+img {
+  text-align: center;
+
+}
+
+div{
+  background-color: white;
+  text-align: center;
+  padding: 10px;
+  width: 1000px;
+}
+
+#profil {
+  border-radius: 50%
+}
+
+#movies {
+  box-shadow: 5px 5px 3px black;
+}
+
+.card {
+  margin: 60 auto;
+  background-color: rgba(200, 200, 200, 0.6);
+  box-shadow: 7px 7px 8px grey;
+}
+
+.list-inline li {
+display:inline-block;
+}
+
+.paded li {
+  padding: 10px
+}
